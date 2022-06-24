@@ -38,7 +38,7 @@ RX 550 Lexa only works in **(_SB_).(PCI0).(GPP8)** location path on hackintosh. 
 ## Working Status
 
 - Ethernet
-- WiFİ
+- WiFi
 - Bluetooth
 - Airdrop
 - Handoff
